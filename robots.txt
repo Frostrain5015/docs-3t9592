@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-htwrte.socredito.com.br/sitemap.xml
